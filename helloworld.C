@@ -24,6 +24,10 @@ int main(){
 
 Harish is working on a function and I'm working on text. This is my text. I dont
 know what function he's working on. 
-'m trying to interject harish's function. This line is on the same line as harish's function. 
+'m trying to interject harish's function. This line is on the same line as harish's function.
+
+void func2(){
+	cout << "This is function 2" << endl;
+}
 
 
