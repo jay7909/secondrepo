@@ -24,6 +24,8 @@ int main(){
 
 Harish is working on a function and I'm working on text. This is my text. I dont
 know what function he's working on. 
-
+void func2(){
+	cout << "This is function 2" << endl;
+}
 
 
